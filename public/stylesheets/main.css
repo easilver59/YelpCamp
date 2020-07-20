@@ -1,0 +1,28 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+#delete-form {
+    display: inline;
+}
+
+
+.center{
+	text-align:center;
+	width: 35%;
+    margin: 0 auto;
+}
+
+.thumbnail{
+	-webkit-box-shadow: 0 0 5px 2px rgba(0,0,0,.2);;
+	-moz-box-shadow:  0 0 5px 2px rgba(0,0,0,.2);
+	box-shadow: 0 0 5px 2px rgba(0,0,0,.2);
+}
